@@ -1,0 +1,29 @@
+button.btn.btn-info.btn-lg {
+    background-color: darkgoldenrod;
+    border: none;
+}
+button span {
+    margin: 0 10px;
+}
+
+.WarningAlert .modal-dialog .modal-content {
+    color: white;
+    background-color: darkgoldenrod;
+    text-align: center;
+}
+
+.WarningAlert .modal-header {
+    background-color: darkkhaki;
+    border: none;
+    padding: 20px 10px;
+}
+
+.WarningAlert .modal-footer {
+    border: none;
+    text-align: center;
+}
+
+.WarningAlert button.btn.btn-info.btn-lg {
+    background-color: darkkhaki;
+    border: navajowhite;
+}

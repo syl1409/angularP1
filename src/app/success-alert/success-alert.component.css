@@ -1,0 +1,11 @@
+button.btn.btn-info.btn-lg.Success{
+    background-color: darkkhaki;
+    border: navajowhite;
+}
+div#myModal2.Success {
+    background-color: rgba(0, 0, 0, 0.8);
+}
+.Success .modal-content {
+    background-color: darkcyan;
+    padding: 10px;
+}
